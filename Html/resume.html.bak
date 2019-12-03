@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="../css/mystyle.css">
+    <title>Timothy Trimble</title>
+    <style>
+		.img-container {
+			text-align:center;
+		}
+		.txt-container {
+			text-align:center;
+		}
+	</style>
+  </head>
+  <body>
+    <!-- HEADER -------------------------------------------------------------------------------------->
+    <header>
+      <div class="img-container" id="head"><img src="../Images/Header.PNG" alt="My Name"
+
+          height="100" width="600"> </div>
+      <br>
+      <div class="txt-container"> <a href="../html/home.html">| Home |</a> <a
+
+          href="../html/resume.html"> Resume |</a> <a href="../html/interests.html">
+          Interests |</a> <a href="../html/reflections.html"> Reflections |</a>
+        <a href="../html/guestbook.html"> Guestbook |</a> </div>
+      <br>
+    </header>
+    <!--PAGE NAVIGATION -->
+    <nav> <img src="../Images/btnHome.png" alt="Click here to go to the home page."
+
+        id="subnav_home" height="100" width="200"> <br>
+      <img src="../Images/btnResume.png" alt="Click here to see Timothy's resume."
+
+        id="subnav_resume" height="100" width="200"> <br>
+      <img src="../Images/btnInterests.png" alt="Click here to see Timothy's interests."
+
+        id="subnav_interests" height="100" width="200"> <br>
+      <img src="../Images/btnReflections.png" alt="Click here to read Timothy's Reflections."
+
+        id="subnav_reflections" height="100" width="200"> <br>
+      <img src="../Images/btnGuestBook.png" alt="Click here to sign the Guestbook."
+
+        id="subnav_guestbook" height="100" width="200"> <br>
+      <br>
+    </nav>
+
+    <!-- ARTICLE -->
+
+    <article>
+
+      <table style="width:600px" border="1">
+        <tbody>
+          <tr>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+    <p><br>
+    </p>
+    </article>
+
+    <!-- FOOTER -->
+    <footer> 
+      <img src="../Images/Inquire.png" alt="Click to send an inquiry email."
+        id="subnav_inquiry" height="50" width="125">
+    </footer>
+  </body>
+</html>

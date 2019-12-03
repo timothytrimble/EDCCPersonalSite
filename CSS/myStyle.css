@@ -1,0 +1,71 @@
+/* Style sheet for my EDCC Portfolio web site */
+
+body {
+    margin:0px;
+    background-color:rgb(31, 31, 31);
+}
+
+a:link {
+    color: lightblue;
+}
+
+a:visited {
+    color:lightseagreen;
+}
+
+header  {
+    width:1000px;
+    padding:0;
+    margin-bottom:0;
+    background-color:rgb(31, 31, 31);
+}
+
+h1 {
+    font-weight: bold;
+    color: lightblue;
+    font-size: 160%;
+    margin-bottom:25px;
+    margin-top:0px;
+}
+
+nav {
+    display:block;
+    float:left;
+    width:220px;
+    height: 250px;
+    background:rgb(31, 31, 31);
+}
+
+article {			
+    padding:0;
+    color: lightblue;
+    margin-left:225px;
+    width:435px;
+    background-color:rgb(31, 31, 31);
+    display:block;
+}
+
+footer {
+    margin-left:350px;
+    color:lightblue;
+}
+
+bottom {
+    color:rgb(22, 77, 95);
+}
+
+form-panel {			
+    padding:0;
+    color: lightblue;
+    margin-left:225px;
+    width:435px;
+    background-color:rgb(31, 31, 31);
+    display:block;
+}
+
+input[type=text] {
+    background-color:rgb(33,33,33);
+    border-width:2px;
+    color:lightblue;
+}
+
